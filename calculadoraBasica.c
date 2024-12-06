@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// Fabricio Avalle
+//Facundo Avalle
 int sumar(int a, int b);
 int restar(int a, int b);
 int multiplicar(int a, int b);
@@ -43,7 +44,7 @@ int main() {
 }
 
 int sumar(int a, int b) {
-    return 0;
+    return a + b;
 }
 
 int restar(int a, int b) {
